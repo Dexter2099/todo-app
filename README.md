@@ -16,9 +16,6 @@ Built for showcasing **intermediate front-end skills** such as DOM manipulation,
 
 ---
 
-## 📸 Screenshot
-
-![Task Manager Screenshot](screenshot.png) <!-- Optional: Upload screenshot to repo -->
 
 ---
 
